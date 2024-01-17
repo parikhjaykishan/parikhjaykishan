@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @parikhjaykishan
-- 👀 I write java code and javascript too
-- 🌱 I’m always curious to learn new things. I have interest in history, international politics, business, science etc.
-- 💞️ I’m looking to meet people and enjoy good coversation in almost every topic
-- 📫 Concat me by a message
+- 👀 I write java, kotlin code and a bit javascript too
+- 🌱 I’m always curious to learn new things. I have interest in history, international politics, business and trade, science and almost everything.
+- 💞️ I’m looking to meet people and enjoy good coversation.
+- 📫 Concat me by a message or email at <jaykishanparikh@gmail.com>
 
 <!---
 parikhjaykishan/parikhjaykishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
