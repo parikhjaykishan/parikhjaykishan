@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parikhjaykishan
 - 👀 I write java, and kotlin code and try to learn new language. I also love to do software design and architect.
-- 🌱 I’m always curious to learn new things. I have interest in history, international politics, business and trade, science and almost everything.
+- 🌱 I’m always curious to learn new things. I have interest in history, international politics, business and trade, science, spirituality, farming and almost everything.
 - 💞️ I’m looking to meet people and enjoy good coversation.
 - 📫 Concat me by a message or email at <jaykishanparikh@gmail.com>
 
